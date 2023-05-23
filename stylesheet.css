@@ -1,0 +1,19 @@
+nav { 
+    display: inline;
+}
+p {
+    font-family: roboto;
+}
+
+.intro {
+    color: red;
+}
+body{
+    text-align: center;
+}
+#div1 {
+    display: block;
+    background-color: aqua;
+    width: auto;
+    height: auto;
+}
